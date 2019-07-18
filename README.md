@@ -7,3 +7,5 @@
 ## 目录
 
 1. [输出长度为5且内容不重复的数组](https://github.com/MY729/algorithm/issues/1)
+2. [输出前100个质数](https://github.com/MY729/algorithm/issues/2)
+
