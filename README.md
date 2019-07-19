@@ -10,4 +10,5 @@
 2. [输出前100个质数](https://github.com/MY729/algorithm/issues/2)
 3. [数字反转，不能转字符串和数组处理](https://github.com/MY729/algorithm/issues/3)
 4. [输出数组中所有两个的数相加等于7的两个数](https://github.com/MY729/algorithm/issues/4)
+5. [利用对象属性名的唯一性对数组去重](https://github.com/MY729/algorithm/issues/5)
 
