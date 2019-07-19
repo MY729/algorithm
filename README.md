@@ -12,4 +12,5 @@
 4. [输出数组中所有两个的数相加等于7的两个数](https://github.com/MY729/algorithm/issues/4)
 5. [利用对象属性名的唯一性对数组去重](https://github.com/MY729/algorithm/issues/5)
 6. [统计给定字符串中出现次数最多的字符](https://github.com/MY729/algorithm/issues/6)
+7. [判断给定的字符串是否是回文](https://github.com/MY729/algorithm/issues/7)
 
