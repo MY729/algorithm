@@ -13,4 +13,5 @@
 5. [利用对象属性名的唯一性对数组去重](https://github.com/MY729/algorithm/issues/5)
 6. [统计给定字符串中出现次数最多的字符](https://github.com/MY729/algorithm/issues/6)
 7. [判断给定的字符串是否是回文](https://github.com/MY729/algorithm/issues/7)
+8. [给定一组非负整数，重新排列它们的顺序使之组成一个最大的整数](https://github.com/MY729/algorithm/issues/8)
 
