@@ -15,4 +15,5 @@
 7. [判断给定的字符串是否是回文](https://github.com/MY729/algorithm/issues/7)
 8. [给定一组非负整数，重新排列它们的顺序使之组成一个最大的整数](https://github.com/MY729/algorithm/issues/8)
 9. [找出给定数组中只出现一次的数字](https://github.com/MY729/algorithm/issues/9)
+10. [统计 1 ~ n 整数中出现 1 的次数](https://github.com/MY729/algorithm/issues/10)
 
